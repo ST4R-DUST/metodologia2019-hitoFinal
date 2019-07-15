@@ -1,2 +1,3 @@
-# metodologia2019-hitoFinal
-Repositorio con código fuente de página web
+# VidyaMart
+
+La página contiene demasiados recursos para subir directamente al sitio, por lo que se subió un archivo .rar que lo contiene
